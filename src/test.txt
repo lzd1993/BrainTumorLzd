@@ -1,1 +1,1 @@
-windows
+windows-git-gui
